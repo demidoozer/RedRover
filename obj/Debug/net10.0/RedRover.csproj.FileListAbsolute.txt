@@ -1,0 +1,14 @@
+/Users/huntergibbs/Projects/Coding/RedRover/bin/Debug/net10.0/RedRover
+/Users/huntergibbs/Projects/Coding/RedRover/bin/Debug/net10.0/RedRover.deps.json
+/Users/huntergibbs/Projects/Coding/RedRover/bin/Debug/net10.0/RedRover.runtimeconfig.json
+/Users/huntergibbs/Projects/Coding/RedRover/bin/Debug/net10.0/RedRover.dll
+/Users/huntergibbs/Projects/Coding/RedRover/bin/Debug/net10.0/RedRover.pdb
+/Users/huntergibbs/Projects/Coding/RedRover/obj/Debug/net10.0/RedRover.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huntergibbs/Projects/Coding/RedRover/obj/Debug/net10.0/RedRover.AssemblyInfoInputs.cache
+/Users/huntergibbs/Projects/Coding/RedRover/obj/Debug/net10.0/RedRover.AssemblyInfo.cs
+/Users/huntergibbs/Projects/Coding/RedRover/obj/Debug/net10.0/RedRover.csproj.CoreCompileInputs.cache
+/Users/huntergibbs/Projects/Coding/RedRover/obj/Debug/net10.0/RedRover.dll
+/Users/huntergibbs/Projects/Coding/RedRover/obj/Debug/net10.0/refint/RedRover.dll
+/Users/huntergibbs/Projects/Coding/RedRover/obj/Debug/net10.0/RedRover.pdb
+/Users/huntergibbs/Projects/Coding/RedRover/obj/Debug/net10.0/RedRover.genruntimeconfig.cache
+/Users/huntergibbs/Projects/Coding/RedRover/obj/Debug/net10.0/ref/RedRover.dll

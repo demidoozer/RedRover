@@ -1,0 +1,5 @@
+/Users/huntergibbs/Projects/Coding/RedRover/bin/Release/net10.0/publish/RedRover
+/Users/huntergibbs/Projects/Coding/RedRover/bin/Release/net10.0/publish/RedRover.dll
+/Users/huntergibbs/Projects/Coding/RedRover/bin/Release/net10.0/publish/RedRover.deps.json
+/Users/huntergibbs/Projects/Coding/RedRover/bin/Release/net10.0/publish/RedRover.runtimeconfig.json
+/Users/huntergibbs/Projects/Coding/RedRover/bin/Release/net10.0/publish/RedRover.pdb
